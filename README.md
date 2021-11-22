@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently looking for **a new opportunity as a developer**
 - ⚡ I am also a scuba diving instructor 🤿
+- 🌎 I love traveling
 
 - 📫 How to reach me **elianajr1@gmail.com**
 
