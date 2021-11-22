@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Eliana
+
 
 <!--
 **elianajr/elianajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: elianajr1@gmail.com
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elianajr&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🌱 I’m currently looking for **a new opportunity as a developer**
-- ⚡ I am also a scuba diving instructor
+- ⚡ I am also a scuba diving instructor 🤿
 
 - 📫 How to reach me **elianajr1@gmail.com**
 
