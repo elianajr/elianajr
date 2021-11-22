@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: elianajr1@gmail.com
 
 <h1 align="center">Hi 👋, I'm Eliana</h1>
 <h3 align="center">A full-stack developer from Spain</h3>
