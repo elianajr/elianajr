@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elianajr&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🌱 I’m currently looking for **a new opportunity as a developer**
-- ⚡ I am also a scuba diving instructor 🤿
-- 🌎 I love traveling
+- 🌱 Sometimes indie hacker
+- ⚡ Some other times scuba diving instructor 🤿
+- 🌎 Always around the world
 
 - 📫 How to reach me **elianajr1@gmail.com**
 
